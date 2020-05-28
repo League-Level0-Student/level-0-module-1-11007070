@@ -1,1 +1,12 @@
 size(600,600);
+fill(#FF1717, 50);
+ellipse(200,200, 300, 300);
+fill(#2C7EFF, 50);
+ellipse(390, 200, 300, 300);
+fill(#00CE2E, 50);
+ellipse (300, 300, 300, 300);
+fill(#030303);
+textSize(40);
+text("love", 110, 150);
+text("sad", 400, 150);
+text("happy", 250, 390);
